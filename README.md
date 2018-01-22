@@ -1,7 +1,7 @@
 # C# Code Sample
 ## Author : Steve Coluccio
 
-###Description
+### Description
 The following is a small code excerpt from a recent physics climbing game I made called Sweaty Palms (https://thecalooch.itch.io/sweaty-palms)
 
 PlayerControls.cs
@@ -11,6 +11,6 @@ These were the main control scripts for the player during the game. The characte
 
 This code is special to me because of how many minor iteractions happened over the course of about three months of work. An initial prototype was built in a week where the user could control the hands and feet in order to climb upwards. However is was very difficult to use. Small changes to the properties of the physics skeleton were constantly made in order for the climbing to be easier to control. With each change, it became easier to control and climb upwards. Noticeable improvements could be seen when playtesting with others.
 
-###Climb in action
+### Climbing in action
 ![alt text](https://alphabetagamer-3kkpqwvtmi.netdna-ssl.com/wp-content/uploads/2018/01/sweaty-palms-download.gif?x33728)
 
