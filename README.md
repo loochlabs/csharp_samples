@@ -1,5 +1,4 @@
 # C# Code Sample
-## Author : Steve Coluccio
 
 ### Description
 The following is a small code excerpt from a recent physics climbing game I made called Sweaty Palms (https://thecalooch.itch.io/sweaty-palms) These were the main player logic scripts in a larger Unity project.  
